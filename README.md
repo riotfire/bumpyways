@@ -1,4 +1,8 @@
-# Webpack Frontend Starterkit
+# Webpack Frontend Starterkit Modified
+by Dustin Hoyman
+
+### Changes Include
+- Folder structure for styles
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
 
